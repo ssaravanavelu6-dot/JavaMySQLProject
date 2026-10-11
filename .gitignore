@@ -1,0 +1,8 @@
+.env
+*.log
+*.class
+bin/
+out/
+.classpath
+.project
+.settings/
